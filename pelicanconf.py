@@ -36,5 +36,17 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+
 # Themes
 THEME = 'themes/pelican-bootstrap3'
+
+################################
+# Settings in pelican-bootstrap3
+
+# Twitter cards
+TWITTER_CARDS = True
+USE_OPEN_GRAPH = True
+
+# Twitter timeline
+TWITTER_USERNAME = yamokosk
+TWITTER_WIDGET_ID = 552890612870291457
