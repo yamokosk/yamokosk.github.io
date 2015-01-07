@@ -1,2 +1,0 @@
-yamokosk.github.io
-==================
