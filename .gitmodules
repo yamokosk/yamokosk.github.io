@@ -1,3 +1,6 @@
 [submodule "_site"]
 	path = _site
 	url = https://github.com/yamokosk/yamokosk.github.io.git
+[submodule "themes/pelican-bootstrap3"]
+	path = themes/pelican-bootstrap3
+	url = https://github.com/DandyDev/pelican-bootstrap3.git
